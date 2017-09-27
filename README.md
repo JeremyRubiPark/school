@@ -13,4 +13,4 @@
 
 ##### This system provides the better availability and accessibility to users by recognizing the hand gestures 
 
-##### from leap motion controller. This can also adjust the procedures to execute their commands to satisfy their proferences.
+##### from leap motion controller. This can also adjust the procedures to execute their commands to satisfy their proferences. 
